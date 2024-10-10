@@ -1,0 +1,24 @@
+#perro{
+    height: 200px;
+}
+
+img{
+    height: 100px;
+}
+th.nombre{
+    text-align: justify;
+    border-bottom: 2px solid black;
+}
+
+#bordetabla { 
+    border-bottom: 2px solid black;
+ }
+ #bio{
+    margin-top: 10px;
+    height: 100px;
+    width: 200px;
+ }
+
+ #envio{
+    margin-top:10px;
+ }
